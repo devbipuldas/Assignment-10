@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fulwebsite{
+    width: 700px;
+    margin: 0 auto;
+}
+
+/* header section start */
+
+.main_header_section{
+    background-color: #2e219a;
+    text-align: center;
+    padding: 5px 0;
+}
+
+.main_header_section img{
+    height: 35px;
+}
+/* header section end */
+
+
+/* <!-- header menu section start --> */
+
+.menubar_section{
+    background-color: #ff0000;
+    padding: 5px;
+    text-align: center;
+}
+
+.sub_header_menu li{
+display: inline-block;
+margin-left: -5px;
+border-right: 1px solid #ddd;
+
+}
+
+.sub_header_menu li:nth-child(7){
+    border: none;
+}
+
+.sub_header_menu li a{
+    display: inline-block;
+    padding: 10px;
+    text-decoration: none;
+    color: #ddd;
+    
+    }
+    /* <!-- header menu section end --> */
+
+    /* <!-- banner section start --> */
+.banner{
+    background-image: url(https://i.postimg.cc/yY0dtmND/pngtree-simple-creative-background-design-in-the-sky-backgroundcartoonlovelyplanetstarry-skyillustra.jpg);
+    color: white;
+    text-align: center;
+    padding: 100px;
+    background-size: cover;
+}
+
+.contact{
+    background: #008000;
+    display: inline-block;
+    padding: 5px 15px;
+}
+  /* <!-- banner section end --> */
+
+
+  /* <!-- body section start --> */
+.body{
+    background-image: url(https://i.postimg.cc/43wsY2jj/pngtree-modern-double-color-futuristic-neon-background-image-351866.jpg);
+    text-align: center;
+    padding: 80px;
+    background-size: cover;
+}
+.theme{
+
+    background-color: #008000;
+    color: white;
+    padding: 5px;
+    width: 690px; 
+    margin-left: -80px;
+}
+
+.parahraph{
+    background-color:#ffff00 ;
+    padding: 5px;
+}
+.task{
+    background-color: #000000;
+    color: white;
+    display: inline-block;
+    padding: 5px 15px;
+}
+
+ /* <!-- body section end --> */
+
+/* <!-- about section start --> */
+
+
+.about_section{
+    background-color: #4ab75c;
+    text-align: center;
+    padding-top: 30px;
+}
+.title_1{
+    text-align: left;
+    margin-left: 300px;
+    margin-top: 40px;
+}
+.picturre_1{
+ width: 100px;
+ height: 100px;
+ margin-bottom: 61px;
+    
+}
+.picturre_1 img{
+    max-width: 100%;
+    margin-left: 115px;
+    margin-top: -93px;
+}
+
+.title_2{
+    text-align: left;
+    margin-left: 80px;
+    margin-top: 36px;
+    width: 366px;
+}
+
+.picturre_2{ 
+    width: 100px;
+    height: 100px;
+}
+
+.picturre_2 img{
+    max-width: 100%;
+    margin-left: 449px;
+    margin-top: -85px;
+}
+/* <!-- about section end --> */
+
+/* <!-- footer section start --> */
+
+.footer_bottom{
+    background-color: #2c1a8e;
+    padding: 5px;
+    text-align: center;
+}
+
+.footer_bottom ul li{
+    display: inline-block;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px 10px ;
+    text-align: center;
+    margin-right: 15px;
+
+    /* <!-- footer section end --> */
